@@ -4,3 +4,7 @@ scalashop/target
 example/project/project/target
 example/project/target
 example/target
+target/.*
+week2/project/target
+week2/target
+week2/project/project/target
